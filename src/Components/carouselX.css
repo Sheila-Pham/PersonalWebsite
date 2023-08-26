@@ -1,0 +1,20 @@
+.carousel-buttons {
+    background-color: red;
+    color: purple; 
+  }
+  
+  .carousel-buttons:hover {
+    background-color: red;
+    color:red;
+  }
+
+  .slides {
+    color:red;
+  }
+
+  .button {
+    color:aqua;
+  }
+
+
+
