@@ -9,32 +9,32 @@ const WorkPage = () => {
         {
           name: "Airbus beluga but it can swim and fly",
           description: "Probably the most random thing you have ever seen!",
-          imgRoute:"../Images/3dpicasset/airBusBelugaSS.png",
+          imgRoute:"../PersonalWebsite/Images/3dpicasset/airBusBelugaSS.png",
         },
         {
             name: "An airport tug",
             description: "Hello World!",
-            imgRoute:"../Images/3dpicasset/airportTugSS.png",
+            imgRoute:"../PersonalWebsite/Images/3dpicasset/airportTugSS.png",
         },
         {
             name: "A fire extinguisher",
             description: "Hello World!",
-            imgRoute:"../Images/3dpicasset/fireExtinguisherSS.png",
+            imgRoute:"../PersonalWebsite/Images/3dpicasset/fireExtinguisherSS.png",
         },
         {
             name: "Commission for D&D fantasy story",
             description: "Hello World!",
-            imgRoute:"../Images/2dpicasset/dragon.jpg",
+            imgRoute:"../PersonalWebsite/Images/2dpicasset/dragon.jpg",
         },
         {
             name: "Safety cone",
             description: "Hello World!",
-            imgRoute:"../Images/3dpicasset/safetyConeSS.png",
+            imgRoute:"../PersonalWebsite/Images/3dpicasset/safetyConeSS.png",
         },
         {
           name: "Inspired by Japan's Mori Gate",
           description: "Hello World!",
-          imgRoute:"../Images/3dpicasset/shintoShrineSS.png",
+          imgRoute:"../PersonalWebsite/Images/3dpicasset/shintoShrineSS.png",
         },
       ]
     

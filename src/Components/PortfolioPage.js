@@ -9,42 +9,42 @@ const PortfolioPage = () => {
     {
       name: "An entry for Epic Seven's chibi contest",
       description: "Probably the most random thing you have ever seen!",
-      imgRoute:"../Images/2dpicasset/natalonMonkGimp.png",
+      imgRoute:"../PersonalWebsite/Images/2dpicasset/natalonMonkGimp.png",
     },
     {
         name: "Inspired to recreate the famouse Honolulu Cookie Company t-shirt design with Adobe Illustrator",
         description: "Hello World!",
-        imgRoute:"../Images/2dpicasset/pineappleCookie.png",
+        imgRoute:"../PersonalWebsite/Images/2dpicasset/pineappleCookie.png",
     },
     {
         name: "Made up of only simple shapes, text and limited color selections",
         description: "Hello World!",
-        imgRoute:"../Images/2dpicasset/hamsta.jpg",
+        imgRoute:"../PersonalWebsite/Images/2dpicasset/hamsta.jpg",
     },
     {
         name: "Upcoming foodtruck for 626 Night market",
         description: "Hello World!",
-        imgRoute:"../Images/2dpicasset/arthureatLogoSS.jpg",
+        imgRoute:"../PersonalWebsite/Images/2dpicasset/arthureatLogoSS.jpg",
     },
     {
       name: "Used Blender to make a game asset",
       description: "Hello World!",
-      imgRoute:"../Images/3dpicasset/solitariaSS.jpg",
+      imgRoute:"../PersonalWebsite/Images/3dpicasset/solitariaSS.jpg",
     },
     {
       name: "I make stickers for Discord",
       description: "Hello World!",
-      imgRoute:"../Images/2dpicasset/golem.jpg",
+      imgRoute:"../PersonalWebsite/Images/2dpicasset/golem.jpg",
     },
     {
         name: "I make stickers for Discord",
         description: "Hello World!",
-        imgRoute:"../Images/2dpicasset/hachikujiStickerUWU.png",
+        imgRoute:"../PersonalWebsite/Images/2dpicasset/hachikujiStickerUWU.png",
     },
     {
         name: "Had a go with acrylic paint",
         description: "Hello World!",
-        imgRoute:"../Images/2dpicasset/mdzs.jpg",
+        imgRoute:"../PersonalWebsite/Images/2dpicasset/mdzs.jpg",
     }
   ]
 

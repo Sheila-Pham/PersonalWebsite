@@ -40,9 +40,9 @@ const HomePage = () => {
                             >
                                 <Grid container justifyContent="space-between" alignContent="center" >
 
-                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../Images/2dpicasset/tml.png" />
-                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../Images/3dpicasset/tml3d.png" />
-                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../Images/3dpicasset/tml3dprint.jpg" />
+                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../PersonalWebsite/Images/2dpicasset/tml.png" />
+                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../PersonalWebsite/Images/3dpicasset/tml3d.png" />
+                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../PersonalWebsite/Images/3dpicasset/tml3dprint.jpg" />
 
                                 </Grid>
                             </Box>
@@ -60,8 +60,8 @@ const HomePage = () => {
                             >
                                 <Grid container justifyContent="space-between" alignContent="center">
 
-                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../Images/2dpicasset/tml_desktop_yaga.png" />
-                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../Images/2dpicasset/tmlKeypad.jpg" />
+                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../PersonalWebsite/Images/2dpicasset/tml_desktop_yaga.png" />
+                                    <Box sx={{ height: 600, borderRadius: 30, m: 1 }} component="img" src="../PersonalWebsite/Images/2dpicasset/tmlKeypad.jpg" />
 
                                 </Grid>
                             </Box>

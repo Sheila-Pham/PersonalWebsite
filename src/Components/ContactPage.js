@@ -15,16 +15,16 @@ const ContactPage = () => {
                                             >
                                                 <Grid container justifyContent="space-between" alignContent="center">
                                                     <Tooltip>
-                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/logopic/LinkedIn_logo.png" onClick={() => window.open('https://www.linkedin.com/in/sheila-eve-pham-657468175/')}/>
+                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/logopic/LinkedIn_logo.png" onClick={() => window.open('https://www.linkedin.com/in/sheila-eve-pham-657468175/')}/>
                                                     </Tooltip>
                                                     <Tooltip>
-                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/logopic/youtube_logo.jpg" onClick={() => window.open('https://www.youtube.com/@bingbunz/featured')}/>
+                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/logopic/youtube_logo.jpg" onClick={() => window.open('https://www.youtube.com/@bingbunz/featured')}/>
                                                     </Tooltip>
                                                     <Tooltip>
-                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/logopic/twitter_logo.jpg" onClick={() => window.open('https://twitter.com/bingbunz')}/>
+                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/logopic/twitter_logo.jpg" onClick={() => window.open('https://twitter.com/bingbunz')}/>
                                                     </Tooltip>
                                                     <Tooltip>
-                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/logopic/DeviantArt_logo.png" onClick={() => window.open('https://www.deviantart.com/sheilabananapeela')}/>
+                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/logopic/DeviantArt_logo.png" onClick={() => window.open('https://www.deviantart.com/sheilabananapeela')}/>
                                                     </Tooltip>
                                                 </Grid>
                                             </Box>

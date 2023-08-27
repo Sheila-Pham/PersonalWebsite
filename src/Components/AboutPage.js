@@ -16,16 +16,16 @@ const AboutPage = () => {
                                             >
                                                 <Grid container justifyContent="space-between" alignContent="center">
                                                     <Tooltip title="Epic7">
-                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/pic1.png" />
+                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/pic1.png" />
                                                     </Tooltip>
                                                     <Tooltip title="League of Legends">
-                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/pic2.png" />
+                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/pic2.png" />
                                                     </Tooltip>
                                                     <Tooltip title="Anime">
-                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/pic3.gif" />
+                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/pic3.gif" />
                                                     </Tooltip>
                                                     <Tooltip title="Novels">
-                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/pic4.png" />
+                                                        <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/pic4.png" />
                                                     </Tooltip>
                                                 </Grid>
                                             </Box>
@@ -71,16 +71,16 @@ const AboutPage = () => {
                     >
                         <Grid container justifyContent="space-between" alignContent="center">
                             <Tooltip title="Beautiful lanterns in Hoi'An">
-                                <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/headPic/vietnamPic.jpg" />
+                                <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/headPic/vietnamPic.jpg" />
                             </Tooltip>
                             <Tooltip title="First time in Whistler">
-                                <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/headPic/whistlerPic.jpg" />
+                                <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/headPic/whistlerPic.jpg" />
                             </Tooltip>
                             <Tooltip>
-                                <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/headPic/genericPic.jpg" />
+                                <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/headPic/genericPic.jpg" />
                             </Tooltip>
                             <Tooltip title="Anime Expo">
-                                <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../Images/headPic/AXPic.jpg" />
+                                <Box sx={{ width: '20%', borderRadius: 50, m: 1 }} component="img" src="../PersonalWebsite/Images/headPic/AXPic.jpg" />
                             </Tooltip>
                         </Grid>
                     </Box>
