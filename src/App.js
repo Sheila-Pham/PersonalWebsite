@@ -28,12 +28,12 @@ const THEME = createTheme({
 function App() {
   return (
     <>
-      <HashRouter> 
+      <BrowserRouter> 
       {/**BrowserRouter is for routing between pages */}
         <ThemeProvider theme={THEME}>
           <Routes/>
         </ThemeProvider>
-      </HashRouter>
+      </BrowserRouter>
     </>
   );
 }
