@@ -1,5 +1,5 @@
 import './App.css';
-import {BrowserRouter} from 'react-router-dom';
+import {BrowserRouter, HashRouter} from 'react-router-dom';
 import Routes from './Routes';
 import { ThemeProvider, createTheme } from '@mui/material';
 
@@ -28,12 +28,12 @@ const THEME = createTheme({
 function App() {
   return (
     <>
-      <BrowserRouter> 
+      <HashRouter> 
       {/**BrowserRouter is for routing between pages */}
         <ThemeProvider theme={THEME}>
           <Routes/>
         </ThemeProvider>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
