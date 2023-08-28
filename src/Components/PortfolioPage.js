@@ -32,7 +32,7 @@ const PortfolioPage = () => {
       imgRoute:"../PersonalWebsite/Images/3dpicasset/solitariaSS.jpg",
     },
     {
-      name: "I make stickers for Discord",
+      name: "Final fantasy inspired golem",
       description: "Hello World!",
       imgRoute:"../PersonalWebsite/Images/2dpicasset/golem.jpg",
     },
